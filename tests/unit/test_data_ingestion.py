@@ -30,3 +30,4 @@ class Test_DataIngestion_unzip:
         assert os.path.isdir(Path("tests/data/PetImages"))
         assert os.path.isdir(Path("tests/data/PetImages/Cat"))
         assert os.path.isdir(Path("tests/data/PetImages/Dog"))
+       
